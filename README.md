@@ -1,2 +1,2 @@
 # Owion
-Owion --- simple task/bug tracker
+Owion — simple task/bug tracker
